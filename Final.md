@@ -59,9 +59,18 @@ Another twobeam interferomter is the Rayleigh interferometer (Figure 5, from [1]
 - the fringes must be viewed with high magnification.[14]
 
 ![Rayleigh interferometer](https://raw.github.com/platomik/AE2M32OSS/master/pic5.jpg)
-Figure 5. Diagram of the Rayleigh interferometer.
+Figure 5. Diagram of the Rayleigh interferometer. Consists of cells C1 and C2, objectives 01, O2, O3.
 
-In the Rayleigh interferometer (Figure 5), the interfering beams are separated by two slit diaphragms D. After passing through the cells C1 and C2, the beams are collected in the focal plane by the objective 02, where the interference pattern consisting of equal-inclination fringes forms; it is viewed through the eye-piece O3. In this case, parts of the beams emerging from the diaphragms pass below the cells and form an interference pattern of their own, which is located below the first pattern. A difference between the indexes of refraction n1 and n2 of the materials in the cells leads to a displacement of the upper pattern with respect to the lower. The quantity Δ n may be determined from the magnitude of displacement in terms of the number of fringes m.
+One of the earliest astronomical interferometers that is built and used is the interferometer was proposed by Albert Michelson in 1890, following a suggestion by Hippolyte Fizeau. (Figure 6, from [1])
+
+![Michelson stellar interferometerr](https://raw.github.com/platomik/AE2M32OSS/master/pic6.jpg)
+Figure 6. Scheme of the Michelson stellar interferometer
+
+The Michelson stellar interferometer is an instrument for measuring angular diameters of astronomical objects, in which a system of mirrors directs two parallel beams of light into a telescope, and angular diameter is determined from the maximum distance between the beams at which interference fringes are observable. 
+Starlight is reflected by the mirrors M1, M2, M3, and M4 and produces an interference pattern. The angular resolution between two adjacent maximums is equal to q=l/D (Figure 6, b). For any two closest stars at angular resolution j, two interference pattern can be observed on the focal plane.
+
+
+Until now, we have only talked about two-wave interferometers, but there are also multibeam interferometers.
 
 
 [1] Landsberg G S Optika (Optics) 5th ed. (Moscow: Nauka, 1976);
