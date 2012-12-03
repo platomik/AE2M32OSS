@@ -1,15 +1,16 @@
 Interferometric sensors
 ==============
-Intor
+
+Intro
 **Interferometeric sensor** is an instrument based on the interference of waves.[1] There are IS for sound waves and electromagnetic waves (optical and radio waves). 
 
-An acoustic IS is an instrument for measuring the physical characteristics of sound waves in a gas or liquid. It may be used to measure velocity, wavelength, absorption, or impedance.[2-3] It can also be used for measuring the acoustic attenuation coefficient of the medium, but the accuracy is not high. [10] 
+An acoustic IS is an instrument for measuring the physical characteristics of sound waves in gases or liquids. It may be used to measure velocity, wavelength, absorption, or impedance.[2-3] It can also be used for measuring the acoustic attenuation coefficient of the medium, but the accuracy is not high. [10] 
 A vibrating crystal creates the ultrasonic waves that are radiated into the medium. The waves strike a reflector placed parallel to the crystal. The waves are then reflected back to the source and measured.
 
 Optical IS are used for measuring optical wavelength of spectral lines, refractive index of transparent media[4], absolute and relative measurements of length[5-7], angular diameter of objects in the sky [8], testing the quality of surfaces in the optical industry[9].
 
 Principle of operation. Fundamental princilples.
-The principles behind all types of IS are very similar. However there is just difference in coherent waves getting and in measurable value. A single beam of light will be split into two or more coherent beams by some kind of splitter device. Each of these beams travels a different optical route and are recombined before arriving a detector. Finally the result of interference between them are shown on a screen. The characteristics of the interference pattern depend on many parameters: the method of the beam splitting into coherent beams, amount of interfering beams, difference in optical distance, light intensity, the nature of the light source, the spectrum of the light.
+The principles behind all types of IS are very similar. However there is just difference in coherent waves getting and in measurable value. A single beam of light will be split into two or more coherent beams by some kind of splitter device. Each of these beams travels a different optical route and are recombined before arriving a detector. Finally the result of interference between them are shown on a screen. The characteristics of the interference pattern depend on many parameters: the method of the beam splitting into coherent beams, amount of interfering beams, the difference in optical distance, light intensity, the nature of the light source, the spectrum of the light.
 
 Techniques of a coherent waves producing in IS are very various therefore many IS construtcions are exist. Optical IS can be divided into two-wave interferometers and multibeam interferometers by the number of interfering beams. Multibeam IS are used as an interference spectrum analyzer for spectral composition of light. Two-wave IS are used as an interference spectrum analyzer and an device for physical measurements.
 
@@ -20,13 +21,34 @@ P1 is partially reflective, so one beam is transmitted through to point B while 
 These beams are reflected by the mirrors M1 and M2. Then they go back in direction A but beam 2 goes through semitransparent plate P1 and beam 1 are reflected by it and after transmission of the semitransparent plate they join again. Both beams goes through lens O2 and produce an interference pattern visible to the observer at point D. 
 
 ![Michelson interferometer](https://raw.github.com/platomik/AE2M32OSS/master/pic1.jpg)
-Figure 1. Path of light in Michelson interferometer.
+Figure 1. Diagram of a Michelson interferometer: P2 is a plate that compensates for the additional path difference that arises because ray 1 passes through plate P1, twice
 
 Observed interference pattern is equal to interference in air produced by mirror M2 and virtual pattern M'1 of mirror M2 on semitransparent plate P1.
 
-Оптич. разность хода при этом равна: D=2(AC-АВ)=2l, где l — расстояние между M2 и M'1. 
+The difference in optical distance is equal to D=2(AC-АВ)=2l, where l — distance between M2 and M'1. 
+If the mirror M1 is set in such way that M'1 is parallel to M2, then stripes of equal slope are appeared in the focal plane of the lens O2. If M2 and M'1 form optical wedge then  stripes of equal depth are appeared in the plane M2M'1.
 
-Если зеркало М1 расположено так, что М'1 и М2 параллельны, то образуются полосы равного наклона, локализованные в фокальной плоскости объектива O2 и имеющие форму концентрич. колец. Если же M2 и М'1 образуют возд. клин, то возникают полосы равной толщины, локализованные в плоскости клина M2M'1 и представляющие собой параллельные линии.
+The Michelson interferometer is used in physical measurements and engineering instruments. Using it for the first time absolute value of light wavelength was measured. And the speed light independence of the orientation of the apparatus are proved (Michelson–Morley experiment, [11]). 
+
+Michelson spectrographs are capable of very high spectral resolution observations of very bright sources (Fourier transform spectroscopy, [12]). This is just a Michelson interferometer with a movable mirror. By making measurements of the signal at many discrete positions of the moving mirror, the spectrum can be reconstructed using a Fourier transform of the temporal coherence of the light.  The Michelson or Fourier transform spectrograph was popular for infra-red applications at a time when infra-red astronomy only had single pixel detectors. Imaging Michelson spectrometers are a possibility, but in general have been supplanted by imaging Fabry–Pérot instruments which are easier to construct.
+
+
+The combination of a Michelson interferometer with a prism monochromator is Köster's interference comparator. In Köster’s interferometer as shown in figure 2 (from [1]), precision Köster’s double prism is used as the beam splitter and combiner. Köster’s interferometer has advantages than Michelson interferometer in being one dimension and a compensating plate is not necessary to get the same optical paths.
+
+![Köster’s Interferometer](https://raw.github.com/platomik/AE2M32OSS/master/pic2_1.jpg)
+The schematic diagram of Köster’s interferometer
+
+Köster’s interferometer is used for the length measurements in absolute or relative values. For some kind of measurements Köster’s interferometer can be used in combination with a laser, with a microscope (V. P. Linnik microinterferometer).
+
+Twobeam interferometers, called interferential refractometers, developed for very exact measurements of the refractive index and dispersion of gases. An example of such devices is Jamin interferometer eloped in 1856 by the French physicist Jules Jamin. (Figure 3, from [1]).
+
+![Jamin-Interferometer](https://raw.github.com/platomik/AE2M32OSS/master/pic2.jpg)
+Figure 3. Jamin Interferometer.
+
+The interferometer is made up of two mirrors, made of the thickest glass possible. The Fresnel reflection from the first surface of the mirror acts as a beam splitter. The incident light is split into two rays, parallel to each other and displaced by an amount depending on the thickness of the mirror. The rays are recombined at the second mirror, and ultimately imaged onto a screen.
+If a phase-shifting element is added to one arm of the interferometer, then the displacement it causes can be determined by simply counting the interference fringes (e.g., the minima).
+
+Variants of the Jamin interferometer are the Mach-Zehnder and Rozhdestvenskii interferometers (Figure 4), in which two semitransparent plates P1 and P2 and two mirrors M1 and M2 are used. The distance between the beams S1 and S2 may be made very large in these interferometers, which facilitates the mounting of various objects of study in one of the beams. For this reason, these instruments are widely used in the studies of air and gas dynamics.
 
 
 
@@ -50,3 +72,7 @@ January–February 1958, Volume 1, Issue 1, pp 96-97 I. T. Uverskii
 [9] "Phase-Shifting Interferometry for Determining Optical Sur
 
 [10] William J. Fry. The Double Crystal Acoustic Interferometer. Journal of the Acoustical Society of America / Volume 21 / Issue 1, pp. 17-28 (1949); (12 pages)
+
+[11] http://en.wikipedia.org/wiki/Michelson–Morley_experiment
+
+[12] http://en.wikipedia.org/wiki/Fourier_transform_spectroscopy
