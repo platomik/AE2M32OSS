@@ -48,8 +48,20 @@ Figure 3. Jamin Interferometer.
 The interferometer is made up of two mirrors, made of the thickest glass possible. The Fresnel reflection from the first surface of the mirror acts as a beam splitter. The incident light is split into two rays, parallel to each other and displaced by an amount depending on the thickness of the mirror. The rays are recombined at the second mirror, and ultimately imaged onto a screen.
 If a phase-shifting element is added to one arm of the interferometer, then the displacement it causes can be determined by simply counting the interference fringes (e.g., the minima).
 
-Variants of the Jamin interferometer are the Mach-Zehnder and Rozhdestvenskii interferometers (Figure 4), in which two semitransparent plates P1 and P2 and two mirrors M1 and M2 are used. The distance between the beams S1 and S2 may be made very large in these interferometers, which facilitates the mounting of various objects of study in one of the beams. For this reason, these instruments are widely used in the studies of air and gas dynamics.
+Variants of the Jamin interferometer is the Mach-Zehnder(Figure 4, from [1]), which is invented over one hundred years ago and still used for many optical measurements and studies of air and gas dynamics. 
+The Michelson interferometer is a Mach–Zehnder interferometer that has been folded back upon itself. The principal difference is that in the Michelson interferometer, the beam splitting optic is also used to recombine the beams [13].
 
+![Mach–Zehnder interferometer.](https://raw.github.com/platomik/AE2M32OSS/master/pic4.jpg)
+Figure 4. Mach–Zehnder interferometer. Consists of two semitransparent plates P1 and P2 and two mirrors M1 and M2. 
+
+Another twobeam interferomter is the Rayleigh interferometer (Figure 5, from [1]). The advantage of the Rayleigh interferometer is its simple construction. Its drawbacks are:
+- it requires a point or line source of light for good fringe visibility
+- the fringes must be viewed with high magnification.[14]
+
+![Rayleigh interferometer](https://raw.github.com/platomik/AE2M32OSS/master/pic5.jpg)
+Figure 5. Diagram of the Rayleigh interferometer.
+
+In the Rayleigh interferometer (Figure 5), the interfering beams are separated by two slit diaphragms D. After passing through the cells C1 and C2, the beams are collected in the focal plane by the objective 02, where the interference pattern consisting of equal-inclination fringes forms; it is viewed through the eye-piece O3. In this case, parts of the beams emerging from the diaphragms pass below the cells and form an interference pattern of their own, which is located below the first pattern. A difference between the indexes of refraction n1 and n2 of the materials in the cells leads to a displacement of the upper pattern with respect to the lower. The quantity Δ n may be determined from the magnitude of displacement in terms of the number of fringes m.
 
 
 [1] Landsberg G S Optika (Optics) 5th ed. (Moscow: Nauka, 1976);
@@ -76,3 +88,7 @@ January–February 1958, Volume 1, Issue 1, pp 96-97 I. T. Uverskii
 [11] http://en.wikipedia.org/wiki/Michelson–Morley_experiment
 
 [12] http://en.wikipedia.org/wiki/Fourier_transform_spectroscopy
+
+[13] http://en.wikipedia.org/wiki/Jamin_interferometer
+
+[14] Hariharan, P. (2007). "§3.3: The Rayleigh interferometer". Basics of interferometry (2nd ed.). Academic Press. p. 15. ISBN 0123735890.
