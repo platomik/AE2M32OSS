@@ -32,6 +32,7 @@ P1 is partially reflective, so one beam is transmitted through to point B while 
 These beams are reflected by the mirrors M1 and M2. Then they go back in direction A but beam 2 goes through semitransparent plate P1 and beam 1 are reflected by it and after transmission of the semitransparent plate they join again. Both beams goes through lens O2 and produce an interference pattern visible to the observer at point D. 
 
 ![Michelson interferometer](https://raw.github.com/platomik/AE2M32OSS/master/pic1.jpg)
+
 Figure 1. Diagram of a Michelson interferometer: P2 is a plate that compensates for the additional path difference that arises because ray 1 passes through plate P1, twice
 
 Observed interference pattern is equal to interference in air produced by mirror M2 and virtual pattern M'1 of mirror M2 on semitransparent plate P1.
@@ -47,13 +48,15 @@ Michelson spectrographs are capable of very high spectral resolution observation
 The combination of a Michelson interferometer with a prism monochromator is Köster's interference comparator. In Köster’s interferometer as shown in figure 2 (from [1]), precision Köster’s double prism is used as the beam splitter and combiner. Köster’s interferometer has advantages than Michelson interferometer in being one dimension and a compensating plate is not necessary to get the same optical paths.
 
 ![Köster’s Interferometer](https://raw.github.com/platomik/AE2M32OSS/master/pic2_1.jpg)
-The schematic diagram of Köster’s interferometer
+
+Figure 2. The schematic diagram of Köster’s interferometer
 
 Köster’s interferometer is used for the length measurements in absolute or relative values. For some kind of measurements Köster’s interferometer can be used in combination with a laser, with a microscope (V. P. Linnik microinterferometer).
 
 Twobeam interferometers, called interferential refractometers, developed for very exact measurements of the refractive index and dispersion of gases. An example of such devices is Jamin interferometer eloped in 1856 by the French physicist Jules Jamin. (Figure 3, from [1]).
 
 ![Jamin-Interferometer](https://raw.github.com/platomik/AE2M32OSS/master/pic2.jpg)
+
 Figure 3. Jamin Interferometer.
 
 The interferometer is made up of two mirrors, made of the thickest glass possible. The Fresnel reflection from the first surface of the mirror acts as a beam splitter. The incident light is split into two rays, parallel to each other and displaced by an amount depending on the thickness of the mirror. The rays are recombined at the second mirror, and ultimately imaged onto a screen.
@@ -63,6 +66,7 @@ Variants of the Jamin interferometer is the Mach-Zehnder(Figure 4, from [1]), wh
 The Michelson interferometer is a Mach–Zehnder interferometer that has been folded back upon itself. The principal difference is that in the Michelson interferometer, the beam splitting optic is also used to recombine the beams [13].
 
 ![Mach–Zehnder interferometer.](https://raw.github.com/platomik/AE2M32OSS/master/pic4.jpg)
+
 Figure 4. Mach–Zehnder interferometer. Consists of two semitransparent plates P1 and P2 and two mirrors M1 and M2. 
 
 Another twobeam interferomter is the Rayleigh interferometer (Figure 5, from [1]). The advantage of the Rayleigh interferometer is its simple construction. Its drawbacks are:
@@ -70,11 +74,13 @@ Another twobeam interferomter is the Rayleigh interferometer (Figure 5, from [1]
 - the fringes must be viewed with high magnification.[14]
 
 ![Rayleigh interferometer](https://raw.github.com/platomik/AE2M32OSS/master/pic5.jpg)
+
 Figure 5. Diagram of the Rayleigh interferometer. Consists of cells C1 and C2, objectives 01, O2, O3.
 
 One of the earliest astronomical interferometers that is built and used is the interferometer was proposed by Albert Michelson in 1890, following a suggestion by Hippolyte Fizeau. (Figure 6, from [1])
 
 ![Michelson stellar interferometer](https://raw.github.com/platomik/AE2M32OSS/master/pic6.jpg)
+
 Figure 6. Scheme of the Michelson stellar interferometer
 
 The Michelson stellar interferometer is an instrument for measuring angular diameters of astronomical objects, in which a system of mirrors directs two parallel beams of light into a telescope, and angular diameter is determined from the maximum distance between the beams at which interference fringes are observable. 
@@ -85,6 +91,7 @@ Until now, two-wave interferometers are only talked about, but there are also mu
 The quintessence of this kind of interferometers is the Fabry–Pérot interferometer, designed in 1899 by C. Fabry and A. Perot and shown on Figure 7. 
 
 ![Fabry–Pérot interferometer](https://raw.github.com/platomik/AE2M32OSS/master/pic7.jpg)
+
 Figure 7. Scheme of the Fabry–Pérot interferometer
 
 The Fabry-Perot interferometer is a significant improvement over the Michelson interferometer. It is typically made of a transparent objectives O1 and O2 with two reflecting surfaces P1 and P2, or two parallel highly reflecting mirrors.
@@ -99,6 +106,7 @@ The complete interference pattern in the focal plane L of the objective O2 takes
 The sensitivity of such a device is improved by the numerous round-trips of the co-propagative and counter-propagative waves. The typical reaction of a Fabry-Pérot interferometer for two kinds of finesse is shown in Figure 8. The higher the reflection coefficient of the reflectors is, the more round-trips in the cavity the waves do, and the finer it is.
 
 ![Fabry–Pérot interferometer2](https://raw.github.com/platomik/AE2M32OSS/master/pic8.jpg)
+
 Figure 8. Transmission of a Fabry-Pérot interferometer according to the phase difference and with two different finesses.
 
 Fabry–Pérot interferometers are widely used in telecommunications, lasers and spectroscopy to control and measure the wavelengths of light:
@@ -178,11 +186,15 @@ ISBN 0 471 82053 9   2002 John Wiley & Sons Ltd.
 [21]. Lawrence, C. M., Nelson, D. V.  and Udd, E., ëMeasurement of Transverse Strains with Fiber Bragg Gratingsí, Proceedings of  SPIE, 3042, p. 218, 1997.
 
 [22]. Gander, M. J., Macrae, D., Galliot, E. A. C., McBride, R., Jones, J. D. C., Blanchard, P. M., Burnett, J. G. and Greenaway, A. H., ëTwo-axis bend measurement using multicore optical fibreí Opt Comm 182, 115-21, 2000. 
+
 [23]. Gander, M. J., MacPherson, W. N., McBride, R., Jones, J. D. C., Zhang, L., Bennion, I., Blanchard, P. M., Burnett, J. G. and Greenaway, A. H., ëBend measurement using Bragg gratings in multicore fibreí Electron Lett. 36, 120-1, 2000. 
-[24]. Nash, P.J. and Cranch, G.A., ëMulti-channel optical hydrophone array with time and wavelength division multiplexingí , 
-Proc. 13th Conf. Optical Fibre Sensors, SPIE vol. 3746, pp. 304-7, Kyongju, Korea , April 12-16, 1999. 
-[25]. Davis, A.R., Kirkendall, C.K., Dandridge, A. and  Kersey, A.D., ë64 channel all optical deployable acoustic arrayí, Proc. 
-12th Conf. Optical Fibre Sensors, Technical Digest, P616-19, 1997. 
+
+[24]. Nash, P.J. and Cranch, G.A., ëMulti-channel optical hydrophone array with time and wavelength division multiplexingí , Proc. 13th Conf. Optical Fibre Sensors, SPIE vol. 3746, pp. 304-7, Kyongju, Korea , April 12-16, 1999. 
+
+[25]. Davis, A.R., Kirkendall, C.K., Dandridge, A. and  Kersey, A.D., ë64 channel all optical deployable acoustic arrayí, Proc. 12th Conf. Optical Fibre Sensors, Technical Digest, P616-19, 1997. 
+
 [26]. Bosselmann T., Electric and Magnetic field Seinsing for High Voltage Applications, Proc. SPIE, 1997--, Vol. 3097.
+
 [27]. Rao Y J, Webb D J, Jackson D A, Zhang L and Bennion I, ëIn-tibre Bragg grating temperature sensor system for medical applicationsí J. Lightwave Technol. 15, 779-85, 1996. 
+
 [28] Farahi, F., Jones, J. D. C. and Jackson, D. A., ëHigh speed fibre optic temperature sensorí Opt. Letts. 16, 1800 ñ 2, 1991. 
