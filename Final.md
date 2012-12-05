@@ -1,20 +1,22 @@
-Interferometric sensors
+Draft.Interferometric sensors.
 ==============
-interferometric sensors, optical fibers,  optical-fibre sensors, interferometery, optical processing
-==============
+
+Keywords: interferometric sensors, optical fibers,  optical-fibre sensors, interferometery, optical processing
+
 Abstract
 ======
 Over a long period of time optical interferometry was being associated with precision measurements. And  an interferometer is an instrument that allows make very precise measurements of objects by using the interference pattern as the result of falling at least two beams of light on the same place. Moreover, if these beams of light are mutually coherent, then the resultant intensity periodically varies depending on 
 the optical path difference and the period (wavelength). In the such way optical path lengths can be estimated on the scale of the wavelength of light. Also it became known that optical fibers guidance properties have dependence on the environment (pressure, temperature, strain, etc.). So any variation of the temperature or strain is measurable. By using single mode fibers and their components makes it possible to build very robust interferometers  to be used in laboratories and beyond them. Nowadays fibre optic interferometers are the part of a wide range of new kinds of measuring tools. 
+
 This article is concerned with the sensors whose historical principles taken into account.
 
 
 Introduction
 ======
 
-**Interferometeric sensor** is an instrument based on the interference of waves.[1] There are IS for sound waves and electromagnetic waves (optical and radio waves). 
+**Interferometeric sensor** is an instrument based on the interference of waves[1]. There are IS for sound waves and electromagnetic waves (optical and radio waves). 
 
-An acoustic IS is an instrument for measuring the physical characteristics of sound waves in gases or liquids. It may be used to measure velocity, wavelength, absorption, or impedance.[2-3] It can also be used for measuring the acoustic attenuation coefficient of the medium, but the accuracy is not high. [10] 
+An acoustic IS is an instrument for measuring the physical characteristics of sound waves in gases or liquids. It may be used to measure velocity, wavelength, absorption, or impedance[2-3]. It can also be used for measuring the acoustic attenuation coefficient of the medium, but the accuracy is not high[10]. 
 A vibrating crystal creates the ultrasonic waves that are radiated into the medium. The waves strike a reflector placed parallel to the crystal. The waves are then reflected back to the source and measured.
 
 Optical IS are used for measuring optical wavelength of spectral lines, refractive index of transparent media[4], absolute and relative measurements of length[5-7], angular diameter of objects in the sky [8], testing the quality of surfaces in the optical industry[9].
@@ -258,16 +260,21 @@ applications. J. Opt. Soc. Korea 2010, 14, 326-332.
 
 [30] Grattan, K.T.V.; Meggitt, B.T. Optical Fiber Sensor Technology; Chapman & Hall: Orange, CA, 
 USA, 1995. 
+
 [31] Byeong Ha Lee 1,*, Young Ho Kim 1, Kwan Seob Park 1, Joo Beom Eom 2, Myoung Jin Kim 2, 
 Byung Sup Rho 2 and Hae Young Choi 3 . Sensors 2012, 12, Review Interferometric optical fibre Sensors 
+
 [32] Tsai, W.H.; Lin, C.J. A novel structure for the intrinsic Fabry-Perot fiber-optic temperature sensor. 
 J. Lightw. Techol. 2001, 19, 682-686.
+
 [33] Zhao, C.; Jin, Y.; Kang, J.; Gong, H.; Dong, J. Recent progress of fiber loop mirror-based sensors 
 in China Jiliang University. Photonic Sens. 2011, 1, doi:10.1007/s13320-011-0045-0. 
+
 [34] Kim, H.M.; Nam, H.; Moon, D.S.; Kim, Y.H.; Lee, B.H.; Chung, Y. Simultaneous Measurement 
 of Strain and Temperature with High Sensing Accuracy. In Proceedings of the 14th 
 OptoElctronics and Communications Conference (OECC 2009), Hong Kong, China, 13–17 July 
 2009; doi:10.1109/OECC.2009.5219750. 
+
 [35] Frazao, O.; Marques, L.M.; Santos, S.; Baptista, J.M.; Santos, J.L. Simultaneous measurement for 
 strain and temperature based on a long-period grating combined with a high-birefringence fiber 
 loop mirror. IEEE Photon. Technol. Lett. 2006, 18, 2407-2409. 
