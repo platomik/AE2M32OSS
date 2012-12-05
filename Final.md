@@ -1,6 +1,7 @@
 Interferometric sensors
 ==============
-
+interferometric sensors, optical fibers,  optical-fibre sensors, interferometery, optical processing
+==============
 Abstract
 ======
 Over a long period of time optical interferometry was being associated with precision measurements. And  an interferometer is an instrument that allows make very precise measurements of objects by using the interference pattern as the result of falling at least two beams of light on the same place. Moreover, if these beams of light are mutually coherent, then the resultant intensity periodically varies depending on 
@@ -117,8 +118,61 @@ Fabry–Pérot interferometers are widely used in telecommunications, lasers and
 - used to make a spectrometer capable of observing the Zeeman effect
 - can be used to prolong the interaction length in laser absorption spectrometry techniques.
 
-Optical fiber sensors
+Optical fibre interferometric sensor 
 =====================
+Technological benefits of an optical fibres sensing deal with intrinsic properties of materials made of. It allows using it in the harsh conditions of electromagnetic fields and temperature. And here spectrum of its usage is quite wide and many interesting research are possible.
+An optical fibre interferometer uses the interference between two beams that have propagated through different optical paths of a single fiber or two different fibers. So, beam splitting and beam combining components are required in any configurations [29]. One of the optical paths should be easily external exposure affected. The measurand can be quantitatively determined by changes in the wavelength, phase, intensity, frequency, bandwidth, and so on. 
+The current trend of optical fibre interferometers is to miniaturize them for micro-scale applications. Thus, traditional bulk optic components such as beam splitters, combiners, and objective lenses have been rapidly replaced by small-sized fiber devices that enable the sensors to operate on fiber scales. As a best candidate to implement miniaturized optical fibre interferometers, in-line structures which have two optical paths in one physical line have been widely investigated. The in-line structure offers several advantages such as easy alignment, high coupling efficiency, and high stability[31].  
+Four types of optic fiber interferometers are often used nowdays: Michelson, Mach-Zehnder, Fabry-Perot, Sagnac. Technologies 
+Some of they are based on hundred years ago invented technologies but fiber optics benefits were an incitement to them for the new applications.
+
+Fabry-Perot Interferometer Sensor
+
+The original version of the Fabry-Perot interferometer (FPI) was described in the first part of the article. For 
+the fiber optic cases, the FPI can be simply formed by intentionally building up reflectors inside or 
+outside of fibers. FPI sensors can be largely classified into two categories: extrinsic and intrinsic [32]. 
+The extrinsic FPI sensor uses the reflections from an external cavity formed out of the interesting fiber (Figure 9a, from [31]). Producing is relatively simple procedure and does not need any high cost equipment. Low coupling efficiency, careful alignment, and packaging problem is disadvantages for extrinsic FPI sensor.
+
+![FPI1](https://raw.github.com/platomik/AE2M32OSS/master/pic9a.jpg)
+
+Figure 9a. Extrinsic FPI sensor, the air cavity is formed by a supporting structure
+
+Intrinsic FPI fiber sensors have reflecting components within the fiber itself (Figure 9b, from [31]). The main disadvantage for intrinsic FPI sensors is high cost fabrication equipment for the cavity formation.
+
+![FPI2](https://raw.github.com/platomik/AE2M32OSS/master/pic9b.jpg)
+
+Figure 9b. intrinsic FPI sensor formed by two reflecting components, R1 and R2, along a fiber
+
+When the cavity material is not the fiber itself, intrinsic FPI sensors called extrinsic. For the refractive index measurements of liquids, extrinsic FPI sensors are used because the measurand  can easily access the cavity. Complicated laboratory conditions are required for providing such measurements with intrinsic structured FPI.
+
+Mach-Zehnder Interferometer Sensors  
+
+The first versions of Mach-Zehnder interferometers (MZIs) had two separated arms, which are the reference arm and the sensing arm. A beam of light are splitting by a fiber coupler  into two directions and then recombined by another fiber coupler. The reference arm is avoid exposure and only the sensing arm is sesitive for the external variations. Then, the variation in the sensing arm induced by such as temperature, strain, and refractive index changes, which can be easily detected by analyzing the variation in the interference signal.  
+Later the scheme with two independent arms in the MZIs has been replaced with the scheme of in-line waveguide interferometer since the advent of long period fiber gratings (LPGs). Possibility providing simultaneous measurements of several measurands is the advantage of the in-line MZIs.
+
+Michelson Interferometer Sensors  
+
+The main idea behind Michelson interferometers (MIs) is the interference of two beams in separated arms. Which is quite close to the MZIs but there is a difference that each beam is reflected by the end of its arm. In fact, an MI is like a half of an MZI in configuration. Thus, the manufacturing resources and the technological properties of MIs are almost the same as MZIs. The difference is in the existence of a reflector. Simple implementation of sensors array is another advantage of MIs.
+MIs are widely used for thr measurements  of temperature and refractive index of liquid specimens.
+
+An inline implementation of MI is also possible (Figure 10, from [31]). A part of the core mode beam is coupled to the cladding mode(s), which is reflected along with the uncoupled core mode beam by the common reflector at the end of the fiber.
+
+![MIs](https://raw.github.com/platomik/AE2M32OSS/master/pic10.jpg)
+
+Figure 10. Schema of a compact in-line Michelson interferometer.
+
+Sagnac Interferometer Sensor 
+
+Sagnac interferometers(SI) is relatively new technology if compare it with previous interferometers. Their easy-to-build technique, simple structure and robustness leads to using in many sensing applications. 
+two coils of optical fiber are arranged so that light from a single source travels clockwise in one, and counterclockwise in the other. Rotation of the coils causes a phase shift in the combined output measured by the detector.
+
+![SI](https://raw.github.com/platomik/AE2M32OSS/master/pic11.jpg)
+
+Figure 11. Schema of a Sagnac interferometer. (from osa.magnet.fsu.edu)
+
+Unlike other fiber optic interferometers, the OPD is determined by the polarization dependent propagating speed of the mode guided along the loop.
+Main advantage of the SI is the simultaneous sensing capability with the help of other fiber optic devices 
+of other fiber optic devices[33-35].
 
 Applications and Summary 
 ===================
@@ -177,7 +231,7 @@ ISBN 0 471 82053 9   2002 John Wiley & Sons Ltd.
 
 [17] Hill, K. 0., Fujii, Y., Johnson, D. C.  and Kawasaki, B. S., ëPhotosensitivity in optical fiber waveguides: Application to reflection filter fabricationí, Appl. Phys. Lett., 32, 10, pp. 647-9, 1978. 
 
-[18] Measures, R. M., Alavie, T., Maaskant, R., Huang, S., and LeBlanc, M., ëBragg grating fiber optic sensing for bridges and  other structuresí, Second European Conference on Smart Structures and Materials, Proceedings of the SPIE, Vol. 2361, pp. 162-7, 1994.
+[18] Measures, R. M., Alavie, T., Maaskant, R., Huang, S., and LeBlanc, M., ëBragg grating optical fibre sensing for bridges and  other structuresí, Second European Conference on Smart Structures and Materials, Proceedings of the SPIE, Vol. 2361, pp. 162-7, 1994.
 
 [19] Inaudi, D., Elamari, A., Pflug, L., Gisin, N. Breguet, J. and Vurpillot, S.,ëLow-coherence deformation sensors for the monitoring of civil-engineering structuresí , Sensor and Actuators A, 44, 125-30, 1994. 
 
@@ -198,3 +252,22 @@ ISBN 0 471 82053 9   2002 John Wiley & Sons Ltd.
 [27]. Rao Y J, Webb D J, Jackson D A, Zhang L and Bennion I, ëIn-tibre Bragg grating temperature sensor system for medical applicationsí J. Lightwave Technol. 15, 779-85, 1996. 
 
 [28] Farahi, F., Jones, J. D. C. and Jackson, D. A., ëHigh speed fibre optic temperature sensorí Opt. Letts. 16, 1800 ñ 2, 1991. 
+
+[29] Lee, B.H.; Eom, J.B.; Park, K.S.; Park, S.J.; Ju, M.J. Specialty fiber coupler; Fabrications and 
+applications. J. Opt. Soc. Korea 2010, 14, 326-332. 
+
+[30] Grattan, K.T.V.; Meggitt, B.T. Optical Fiber Sensor Technology; Chapman & Hall: Orange, CA, 
+USA, 1995. 
+[31] Byeong Ha Lee 1,*, Young Ho Kim 1, Kwan Seob Park 1, Joo Beom Eom 2, Myoung Jin Kim 2, 
+Byung Sup Rho 2 and Hae Young Choi 3 . Sensors 2012, 12, Review Interferometric optical fibre Sensors 
+[32] Tsai, W.H.; Lin, C.J. A novel structure for the intrinsic Fabry-Perot fiber-optic temperature sensor. 
+J. Lightw. Techol. 2001, 19, 682-686.
+[33] Zhao, C.; Jin, Y.; Kang, J.; Gong, H.; Dong, J. Recent progress of fiber loop mirror-based sensors 
+in China Jiliang University. Photonic Sens. 2011, 1, doi:10.1007/s13320-011-0045-0. 
+[34] Kim, H.M.; Nam, H.; Moon, D.S.; Kim, Y.H.; Lee, B.H.; Chung, Y. Simultaneous Measurement 
+of Strain and Temperature with High Sensing Accuracy. In Proceedings of the 14th 
+OptoElctronics and Communications Conference (OECC 2009), Hong Kong, China, 13–17 July 
+2009; doi:10.1109/OECC.2009.5219750. 
+[35] Frazao, O.; Marques, L.M.; Santos, S.; Baptista, J.M.; Santos, J.L. Simultaneous measurement for 
+strain and temperature based on a long-period grating combined with a high-birefringence fiber 
+loop mirror. IEEE Photon. Technol. Lett. 2006, 18, 2407-2409. 
