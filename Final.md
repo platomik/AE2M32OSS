@@ -130,9 +130,7 @@ Some of they are based on hundred years ago invented technologies but fiber opti
 
 Fabry-Perot Interferometer Sensor
 
-The original version of the Fabry-Perot interferometer (FPI) was described in the first part of the article. For 
-the fiber optic cases, the FPI can be simply formed by intentionally building up reflectors inside or 
-outside of fibers. FPI sensors can be largely classified into two categories: extrinsic and intrinsic [32]. 
+The original version of the Fabry-Perot interferometer (FPI) was described in the first part of the article. For the fiber optic cases, the FPI can be simply formed by intentionally building up reflectors inside or outside of fibers. FPI sensors can be largely classified into two categories: extrinsic and intrinsic [32]. 
 The extrinsic FPI sensor uses the reflections from an external cavity formed out of the interesting fiber (Figure 9a, from [31]). Producing is relatively simple procedure and does not need any high cost equipment. Low coupling efficiency, careful alignment, and packaging problem is disadvantages for extrinsic FPI sensor.
 
 ![FPI1](https://raw.github.com/platomik/AE2M32OSS/master/pic9a.jpg)
